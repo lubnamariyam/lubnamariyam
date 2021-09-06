@@ -2,5 +2,5 @@
 - 👀 I’m interested in Android
 - 🌱 I’m currently learning Advanced Android developement.
 - 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me - Instagram - @lubnamariyam62
+- 📫 How to reach me - https://twitter.com/lubnamariyam62
 - Hit me a like on Youtube - https://www.youtube.com/channel/UCxpTi88NZk2ievSVABjBNUA
