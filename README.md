@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @lubnamariyam
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-lubnamariyam/lubnamariyam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in Android
+- 🌱 I’m currently learning Advanced Android developement.
+- 💞️ I’m looking to collaborate on open source projects
+- 📫 How to reach me - Instagram - @lubnamariyam62
+- Hit me a like on Youtube - https://www.youtube.com/channel/UCxpTi88NZk2ievSVABjBNUA
